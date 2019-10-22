@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12599" started-at="2019-10-20T17:50:05 IST" finished-at="2019-10-20T17:50:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12599" started-at="2019-10-20T17:50:05 IST" finished-at="2019-10-20T17:50:18 IST">
+      <class name="com.challenge1.Question6">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.challenge1.Question6@b21112]" name="beforeClass" is-config="true" duration-ms="2332" started-at="2019-10-20T17:50:05 IST" finished-at="2019-10-20T17:50:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testTCQ1(java.lang.String)[pri:0, instance:com.challenge1.Question6@b21112]" name="testTCQ1" duration-ms="4903" started-at="2019-10-20T17:50:07 IST" data-provider="testData1" finished-at="2019-10-20T17:50:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bags]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTCQ1 -->
+        <test-method status="PASS" signature="testTCQ2(java.lang.String)[pri:0, instance:com.challenge1.Question6@b21112]" name="testTCQ2" duration-ms="2137" started-at="2019-10-20T17:50:12 IST" data-provider="testData2" finished-at="2019-10-20T17:50:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shoes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTCQ2 -->
+        <test-method status="PASS" signature="testTCQ3(java.lang.String)[pri:0, instance:com.challenge1.Question6@b21112]" name="testTCQ3" duration-ms="1855" started-at="2019-10-20T17:50:15 IST" data-provider="testData3" finished-at="2019-10-20T17:50:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tshirts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTCQ3 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.challenge1.Question6@b21112]" name="afterTest" is-config="true" duration-ms="1164" started-at="2019-10-20T17:50:16 IST" finished-at="2019-10-20T17:50:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.challenge1.Question6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
